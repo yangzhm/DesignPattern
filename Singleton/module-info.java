@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author gccdep
+ *
+ */
+module Singleton {
+}
